@@ -2,7 +2,7 @@
 
 🎮 **Game Developer | XR Innovator | Backend Engineer | Creative Technologist**
 
-I’m a multi-disciplinary creator with a passion for building immersive experiences, smart backend systems, and transformative tools for education and entertainment. By day, I lead production tech efforts at **Texas State Technical College (TSTC)**. By night, I’m designing dark multiplayer survival games, coding modular Unreal plugins, and composing cinematic synth tracks.
+I’m a multi-disciplinary creator with a passion for building immersive experiences, smart backend systems, and transformative tools for education and entertainment. By day, I lead production tech efforts at Half Byte Games. By night, I’m designing dark multiplayer survival games, coding modular Unreal plugins, and composing cinematic synth tracks.
 
 ---
 
